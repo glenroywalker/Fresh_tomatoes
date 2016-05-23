@@ -18,10 +18,9 @@ main_page_head = '''
     <style type="text/css" media="screen">
 
 
-
         body {
             padding-top: 80px;
-            background-color: #34495e;
+            background-color: #141414;
 
         }
         #trailer .modal-dialog {
@@ -112,6 +111,7 @@ main_page_content = '''
         <div class="container">
           <div class="navbar-header">
             <a class="navbar-brand" href="#">Fresh Tomatoes Movie Trailers</a>
+
           </div>
         </div>
       </div>
